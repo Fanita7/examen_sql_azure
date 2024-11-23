@@ -26,12 +26,3 @@ WHERE ClienteID 2
 GO
 
 
-
-    Luego, realiza las siguientes consultas:
-
-        //Muestra todos los clientes registrados.
-       // Actualiza el correo electrónico del cliente con id = 1 a 'carlos.garcia@nuevoemail.com'.
-        Elimina el registro del cliente con id = 2.
-        Muestra los resultados después de cada actualización.
-
-        
